@@ -1,0 +1,1 @@
+I worked closely with a couple peers in my master's program to clean data from The Metropolitan Museum of Art and visualize this data to make insights. The project taught me alot of valuable skills, especially best practices when coding in a team.
